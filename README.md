@@ -4,7 +4,7 @@ nano-In2O3
 Nanoclusters of indium sesquioxide (In2O3) generated from a global optimisation procedure. 
 The structures were found to be global minima from an evolutionary search on a classical potential 
 energy landscape, and further ranked using the PBE exchange-correlation functional.
-- (In2O3)*n*, for *n* = 1,10
+- (In2O3)n, for n = 1,10
 - VASP (POSCAR) and FHI-AIMS (geometry.in) file formats
 
 Used in
