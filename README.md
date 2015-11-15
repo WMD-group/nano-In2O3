@@ -9,7 +9,7 @@ energy landscape, and further ranked using the PBE exchange-correlation function
 
 Used in
 ------------
-- "Evolutionary structure prediction and electronic properties of indium oxide nanoclusters" A. Walsh and S.M. Woodley, PCCP 12, 8446 (2010). DOI: 10.1039/c0cp00056f
+- "Evolutionary structure prediction and electronic properties of indium oxide nanoclusters" A. Walsh and S.M. Woodley, [PCCP 12, 8446 (2010)](http://pubs.rsc.org/en/content/articlelanding/2010/cp/c0cp00056f#!divAbstract)
  
 Disclaimer
 ----------
